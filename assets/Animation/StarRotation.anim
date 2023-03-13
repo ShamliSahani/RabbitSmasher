@@ -1,0 +1,207 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "StarRotation",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 5.016666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "stars/star1": {
+        "props": {
+          "eulerAngles": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            {
+              "frame": 5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0,
+                "y": 0,
+                "z": 360
+              }
+            }
+          ]
+        }
+      },
+      "stars/star2": {
+        "props": {
+          "eulerAngles": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            {
+              "frame": 5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0,
+                "y": 0,
+                "z": 360
+              }
+            }
+          ]
+        }
+      },
+      "stars/star3": {
+        "props": {
+          "eulerAngles": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            {
+              "frame": 4.983333333333333,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0,
+                "y": 0,
+                "z": 360
+              }
+            }
+          ]
+        }
+      },
+      "stars/star4": {
+        "props": {
+          "eulerAngles": [
+            {
+              "frame": 0.016666666666666666,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            {
+              "frame": 4.983333333333333,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0,
+                "y": 0,
+                "z": 360
+              }
+            }
+          ]
+        }
+      },
+      "stars/star5": {
+        "props": {
+          "eulerAngles": [
+            {
+              "frame": 0.016666666666666666,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            {
+              "frame": 5.016666666666667,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0,
+                "y": 0,
+                "z": 360
+              }
+            }
+          ]
+        }
+      },
+      "stars/star6": {
+        "props": {
+          "eulerAngles": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            {
+              "frame": 5.016666666666667,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0,
+                "y": 0,
+                "z": 360
+              }
+            }
+          ]
+        }
+      },
+      "stars/star7": {
+        "props": {
+          "eulerAngles": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            {
+              "frame": 5.016666666666667,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0,
+                "y": 0,
+                "z": 360
+              }
+            }
+          ]
+        }
+      },
+      "stars/star8": {
+        "props": {
+          "eulerAngles": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            {
+              "frame": 5,
+              "value": {
+                "__type__": "cc.Vec3",
+                "x": 0,
+                "y": 0,
+                "z": 360
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}
